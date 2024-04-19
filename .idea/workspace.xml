@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e064404-b383-4712-85e8-b6b02e72546d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/djangoProject19/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/djangoProject19/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/djangoProject19/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/djangoProject19/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/djangoProject19/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/homeapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/homeapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/homeapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/homeapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/homeapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/homeapp/static/img/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/homeapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/homeapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/homeapp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/productapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/productapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/productapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/productapp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/productapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/productapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/productapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/productapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/productapp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/registration/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/registration/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/registration/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/registration/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/registration/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/registration/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/registration/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/registration/templates/addcart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/registration/templates/addcart.html.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/registration/templates/auth_home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/registration/templates/auth_home.html.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/registration/templates/cancel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/registration/templates/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/registration/templates/cart.html.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/registration/templates/display.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/registration/templates/insertcart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/registration/templates/insertcart.html.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/registration/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/registration/templates/login.html.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/registration/templates/modifyqty.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/registration/templates/modifyqty.html.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/registration/templates/otp_input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/registration/templates/reg.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/registration/templates/track.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/registration/templates/viewcart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/registration/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/registration/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/registration/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/templates/auth_home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/templates/otp_input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/templates/products.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/templates/reg.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject19/templates/registration/login.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2fKRYA3koSt2nrebLLPZcMXCs5H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e064404-b383-4712-85e8-b6b02e72546d" name="Changes" comment="" />
+      <created>1713547828244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713547828244</updated>
+      <workItem from="1713547852538" duration="24000" />
+    </task>
+    <servers />
+  </component>
+</project>
