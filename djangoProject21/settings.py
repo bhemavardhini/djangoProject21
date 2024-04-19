@@ -24,8 +24,13 @@ SECRET_KEY = 'django-insecure-*m#x851z*+=0d7=@+&d+_v28znazagz3%b#scy3fetdmh5n_1-
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
+EMAIL_HOST = "smtp.gmail.com"
+EMAIL_USE_TLS = True
+EMAIL_PORT = 587
+EMAIL_HOST_USER = "b.hemavardhini@gmail.com"
+EMAIL_HOST_PASSWORD = "fjgovrgcomaurbgk"
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
@@ -37,6 +42,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'homeapp.apps.HomeappConfig',
+    "productapp.apps.ProductappConfig",
+    "registration.apps.RegistrationConfig"
 ]
 
 MIDDLEWARE = [
@@ -54,7 +62,7 @@ ROOT_URLCONF = 'djangoProject21.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [BASE_DIR / 'templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
